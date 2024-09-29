@@ -3,18 +3,18 @@
     "id": 1,
     "name": "Produto Químico",
     "Imagem": "link",
-    "Confiscar": "",
-    "Prender": "",
-    "Revisão": "",
-    "Artigo": "",
+    "Confiscar": "x",
+    "Prender": "x",
+    "Revisão": "x",
+    "Artigo": "x"
   },
   {
     "id": 2,
     "name": "Adubo",
     "Imagem": "link",
-    "Confiscar": "",
-    "Prender": "",
-    "Revisão": "",
-    "Artigo": "",
+    "Confiscar": "x",
+    "Prender": "x",
+    "Revisão": "x",
+    "Artigo": "x"
   }
 ]
